@@ -1,4 +1,4 @@
-🐾 Animal Disease Detection using Deep Learning 🧠
+# 🐾 Animal Disease Detection using Deep Learning 🧠
 🌟 Project Overview
 This project aims to detect skin diseases in animals using deep learning (CNNs in PyTorch). By analyzing images of healthy and diseased animals, the model helps in early disease detection, aiding veterinarians and farmers in proactive treatment.
 
